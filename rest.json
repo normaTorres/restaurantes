@@ -1,5 +1,5 @@
 {
-  "Restaurantes": {
+  "restaurantes": {
    "apiversion":0.1,
       "placesListRestaurantes":[
     {
