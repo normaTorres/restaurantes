@@ -1,10 +1,10 @@
 {
   "Restaurantes": {
    "apiversion":0.1,
-      "placesList":[
+      "placesListRestaurantes":[
     {
       "placeId":2,
-      "placename": "Hola Betos la Libertad",
+      "placeName": "Hola Betos la Libertad",
      
           "latitude": 13.6911484,
           "llongitude": -89.2382949
@@ -12,7 +12,7 @@
       },
     {
       "placeId":4,
-      "placename": "La Pampa Argentina, Plaza Volcan",
+      "placeName": "La Pampa Argentina, Plaza Volcan",
      
           "latitude": 13.7171856,
           "longitude": -89.2768916
@@ -20,7 +20,7 @@
     },
     {
       "placeId":6,
-      "placename": "Linda Vista Garden",
+      "placeName": "Linda Vista Garden",
       
           "latitude": 13.723988,
           "longitude": -89.2741978
@@ -28,7 +28,7 @@
     },
     {
       "placeId":8,
-      "placename": "El Zonte",
+      "placeName": "El Zonte",
       
           "latitude": 13.4974163,
           "longitude": -89.44258751
@@ -36,7 +36,7 @@
     },
     {
       "placeId":10,
-      "placename": "Los Cobanos",
+      "placeName": "Los Cobanos",
       
           "latitude": 13.5250205,
           "longitude": -89.8054429
@@ -44,7 +44,7 @@
     },
     {
       "placeId":12,
-      "placename": "Mizata",
+      "placeName": "Mizata",
        
           "latitude": 13.5104031,
           "longitude": -89.5986808
