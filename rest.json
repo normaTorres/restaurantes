@@ -3,48 +3,48 @@
    "apiversion":0.1,
       "placesListRestaurantes":[
     {
+      "placeId":2,
       "nombre": "Hola Betos la Libertad",
-      "description": "La Hola Betos es una Cadena de Restaurantes con más de 30 años de experiencia en preparar exquisitas recetas originales y servir a nuestros clientes con todo el amor del mundo…",
-      
+     
           "lat": 13.6911484,
           "lng": -89.2382949
        
       },
     {
+      "placeId":4,
       "nombre": "La Pampa Argentina, Plaza Volcan",
-      "description": "Somos uno de los restuarantes reconocidos en El Salvador, por la alta calidad de nuestras carnes y mariscos asi como los tradicionales consomé y salsas de la casa preparadas con ingredientes de primera calidad.",
-
+     
           "lat": 13.7171856,
           "lng": -89.2768916
           
     },
     {
+      "placeId":6,
       "nombre": "Linda Vista Garden",
-      "description": "Linda Vista Gardens es un innovador concepto en armonía con el medio ambiente. Linda Vista Gardens, encierra entre imponentes torres, coloridos jardines, cascadas y fuentes, aromáticas flores y senderos románticos, diferentes espacios que le cautivaran y harán de su evento social o empresarial un acontecimiento inolvidable, totalmente deleitable para sus invitados o participantes. ",
-     
+      
           "lat": 13.723988,
           "lng": -89.2741978
           
     },
     {
+      "placeId":8,
       "nombre": "El Zonte",
-      "description": "A unos kilómetros de la playa El Tunco, en La Libertad, llegamos a la playa El Zonte, donde las olas se elevan más, dejándose dominar por los surfistas más experimentados. El Zonte, además por su tranquilidad se convierte en uno de los destinos preferidos por amigos o parejas en busca de confort y tranquilidad.",
       
           "lat": 13.4974163,
           "lng": -89.44258751
          
     },
     {
+      "placeId":10,
       "nombre": "Los Cobanos",
-      "description": "Esta playa de Sonsonate ofrece todo lo que un turista aventurero siempre busca: hermosa playa, exuberante naturaleza y un sinfín de aventuras por hacer. Entre las actividades más populares son: el avistamiento de ballenas, pesca en alta mar, snorkel, buceo, jet ski, entre otros.",
       
           "lat": 13.5250205,
           "lng": -89.8054429
          
     },
     {
+      "placeId":12,
       "nombre": "Mizata",
-      "description": "En el departamento de La Libertad, Mizata es el punto de inicio las playas ideales para el surf. Es también una de las más privadas en las que podrás dedicarte completamente al surf.",
        
           "lat": 13.5104031,
           "lng": -89.5986808
