@@ -1,7 +1,7 @@
 {
   "Restaurantes": {
    "apiversion":0.1,
-      "placesListRestaurantes":[
+      "placesList":[
     {
       "placeId":2,
       "placename": "Hola Betos la Libertad",
